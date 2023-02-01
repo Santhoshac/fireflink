@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[valid username is displayed]]>
+    </line>
+    <line>
+      <![CDATA[1674651774]]>
+    </line>
+    <line>
+      <![CDATA[file uploaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[actual id is: 1674651774]]>
+    </line>
+    <line>
+      <![CDATA[client id is mathching]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33855" started-at="2023-01-25T18:32:37 IST" finished-at="2023-01-25T18:33:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33855" started-at="2023-01-25T18:32:37 IST" finished-at="2023-01-25T18:33:11 IST">
+      <class name="insurance.Tc_It_003">
+        <test-method status="PASS" signature="addClient()[pri:0, instance:insurance.Tc_It_003@2d6eabae]" name="addClient" duration-ms="33770" started-at="2023-01-25T18:32:37 IST" finished-at="2023-01-25T18:33:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[valid username is displayed]]>
+            </line>
+            <line>
+              <![CDATA[1674651774]]>
+            </line>
+            <line>
+              <![CDATA[file uploaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[actual id is: 1674651774]]>
+            </line>
+            <line>
+              <![CDATA[client id is mathching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addClient -->
+      </class> <!-- insurance.Tc_It_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
